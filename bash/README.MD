@@ -37,3 +37,21 @@ sudo apt-get update && apt-get install -y \
 ``` 
  - All this tolls above will serve us in our roadmap to DevOps!
  
+### shebang! - explanation <br >aka as #!/bin/bash
+```shell
+#!/bin/bash
+#It's a convention so the *nix shell knows what kind of interpreter to run.
+```
+____________________________________________________________________________________________________
+
+
+### set command in shell 
+set allows you to change the values of shell options and set the positional parameters,<br>
+Or to display the names and values of shell variables.
+- Additional reading: <br>
+  [set command](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html)
+
+#### We will use set in order to exit out of the program if there is any error <br> and also for debugging our script.
+```shell
+set -ex
+```
