@@ -1,2 +1,2 @@
 # devops.pazway
-YouTube channel for DevOps begginers
+YouTube channel for DevOps beginners
