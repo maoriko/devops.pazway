@@ -1,4 +1,4 @@
-# Learn Bash
+# Let's Bash
 
 In This section you will learn some basics on bash scripts and how to use theme for DevOps purposes. <br>
 Bash scripts are unique when we are using in operating Unix based system. <br> 
