@@ -9,6 +9,6 @@ HELLO="Hello"
 WORLD="World!"
 echo $HELLO $WORLD
 
-# ---------- Use The power of slicing ----------
+# ---------- Let's slice! ----------
 HELL_WORLD="${HELLO::4} ${WORLD}"
 echo "${HELL_WORLD}"
